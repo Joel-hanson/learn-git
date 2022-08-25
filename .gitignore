@@ -1,4 +1,8 @@
 filename
 hello world
-joel
+<<<<<<< Updated upstream
+Hanson
 Nirmal
+=======
+Hanson
+>>>>>>> Stashed changes
